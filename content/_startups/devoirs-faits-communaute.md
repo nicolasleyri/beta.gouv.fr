@@ -1,20 +1,21 @@
 ---
 title: Devoirs Faits la Communauté
-mission: Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs faits ».
+mission: Faciliter les échanges de pratiques entre pairs autour du dispositif «
+  devoirs faits ».
 owner: Ministère de l'Éducation nationale
-sponsors: 
-    - name: Direction générale de l'enseignement scolaire
-      acronym: DGSCO
-      domaine_ministeriel: education-nat
-      type: administration-centrale
+sponsors:
+  - name: Direction générale de l'enseignement scolaire
+    acronym: DGSCO
+    domaine_ministeriel: education-nat
+    type: administration-centrale
 incubator: dinum
+link: https://devoirs-faits-communaute.beta.gouv.fr/
+repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
+contact: melanie.declercq@outlook.fr
+stats: false
 phases:
   - name: investigation
     start: 2021-02-01
-link: https://devoirs-faits-communaute.beta.gouv.fr/
-repository: https://github.com/betagouv/ClasseA12/tree/devoirs-faits
-stats: false
-contact: camille.martinelli@ac-creteil.fr
 ---
 # Le contexte du projet :
 A la rentrée scolaire 2017, le ministre de l'Éducation nationale, de la Jeunesse et des Sports, Jean-Michel Blanquer, a lancé le dispositif “Devoirs faits” dans les collèges.
