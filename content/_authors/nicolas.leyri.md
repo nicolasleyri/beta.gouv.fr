@@ -1,6 +1,6 @@
 ---
 fullname: Nicolas Leyri
-role: Intrapreneur
+role: coach
 domaine: Intraprenariat
 missions:
   - start: 2018-06-07
